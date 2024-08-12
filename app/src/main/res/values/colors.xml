@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color -->
+    <color name="colorPrimary">#FF5722</color> <!-- Orange -->
+    <color name="colorPrimaryVariant">#E64A19</color> <!-- Darker Orange -->
+
+    <!-- Secondary Color -->
+    <color name="colorSecondary">#009688</color> <!-- Teal -->
+    <color name="colorSecondaryVariant">#00796B</color> <!-- Darker Teal -->
+
+    <!-- Background Color -->
+    <color name="colorBackground">#FFFFFF</color> <!-- White -->
+
+    <!-- Text Colors -->
+    <color name="colorTextPrimary">#212121</color> <!-- Dark Gray -->
+    <color name="colorTextSecondary">#757575</color> <!-- Light Gray -->
+
+    <!-- Button Colors -->
+    <color name="colorButton">#FF5722</color> <!-- Orange -->
+    <color name="colorButtonText">#FFFFFF</color> <!-- White -->
+</resources>
